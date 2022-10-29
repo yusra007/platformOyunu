@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MenuSes
+  - Death
+  - Enemy
+  - Coin
+  - SuperStar
+  - Chest
+  - ChestSpawner
+  - zemin
+  - fan
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - mixed
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: assets
+    uniqueID: 3401738971
+    locked: 0
+  - name: zemin
+    uniqueID: 1872895241
+    locked: 0
+  - name: character
+    uniqueID: 2516163783
+    locked: 0
